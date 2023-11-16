@@ -1,0 +1,38 @@
+---
+title: Projects
+---
+
+## Sensorimotor Control of Speech
+
+<img src="feedback.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://reporter.nih.gov/search/hlM2rRQkRk-OzPVBXYsV0A/project-details/10534635', 'blank');"/>
+
+<!-- <a href="https://arxiv.org/abs/2210.07278" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/MetaUncertaintyPaper" target="_blank">Code</a><br> -->
+
+When we move our bodies, our brains make predictions about sensations associated with that movement, and we compare those predictions with our actual sensory feedback. If there is a mismatch between prediction and reality, we use that information to help learn and refine movements. For speech, the most important feedback is auditory. In the lab, we can create artificial mismatches by altering auditory feedback and playing it back to a person on headphones in real time while they speak (think autotune!). We use these experiments to learn more about how the brain controls movements for speech.
+
+In one project, I looked at how reliable these experiments are when they are repeated over time in the same individuals. In another [project](https://reporter.nih.gov/search/hlM2rRQkRk-OzPVBXYsV0A/project-details/10534635), I am measuring [how people with voice disorders respond to altered auditory feedback](https://www.nature.com/articles/s41598-021-92250-8) compared to people with typical voices, and measuring changes in muscle activation around the voice box when they hear altered feedback. I am also measuring how well people can hear differences in pitch and loudness and looking for relationships with their vocal behavior. These studies are helping us to understand why people develop voice disorders, and may lead to new methods of diagnosis and treatment.
+
+----
+
+## Predicting Voice Disorder Status From Acoustic Measures
+
+<img src="prediction.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9499364/', 'blank');"/>
+
+<!-- <a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br> -->
+
+Voice disorders cause people to have poor voice quality (i.e., hoarseness) and vocal fatigue, which makes it difficult to communicate. The most common types of voice disorders involve excessive muscle tension in the voice box. However, this is difficult to measure. One type of acoustic measure, called relative fundamental frequency (RFF), is thought to be sensitive to tension in the voice box. Another acoustic measure, called cepstral peak prominence (CPP), can detect poor voice quality. I tested whether [a combination of features related to RFF and CPP](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9499364/) could predict whether a person had a voice disorder in a large sample of voice recordings. We found that the combination of measures had good predictive performance and worked better than either type of measure alone. This type of measure is accessible, inexpensive, and non-invasive and could be useful for screening people at high risk of voice disorders.
+
+----
+
+## Measuring Outcomes and Understanding Patient Experiences
+
+<img src="measurement.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8608224/', 'blank');"/>
+
+<!-- <a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br> -->
+
+When you make a change and you want to know if it had the desired effect, you need measurement tools that are valid and reliable. You also need to know how people’s perspectives might be different depending on their experience. It might even affect the results you get from your measurement tools! One way that we measure voice disorders is by listening to the voice and rating things like breathiness or roughness. In one project, I showed that ratings are impacted by [listener experience](https://www.sciencedirect.com/science/article/abs/pii/S0892199708002099), and clinicians and patients may actually be rating different things. I have also shown how we can change measurement tools [to make those ratings more similar](https://pubs.asha.org/doi/abs/10.1044/1092-4388%282010/09-0205%29), and [to improve reliability](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8608224/).
+
+Questionnaires are another useful tool for measuring outcomes. I have collaborated on projects using a [combination of qualitative and quantitative methods](https://onlinelibrary.wiley.com/doi/abs/10.1111/1460-6984.12668) to understand patient experiences and to [validate a patient-reported outcome measure](https://jamanetwork.com/journals/jamaotolaryngology/article-abstract/2784324) for people with communication disorders.
+
+----
+
