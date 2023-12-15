@@ -61,6 +61,11 @@ $btn-code-copy-color-active: $orange !default;
 
 /*-- scss:rules --*/
 
+.caption {
+  color: $gray-600;
+  font-size: 0.8em;
+  margin-bottom: 1em;
+}
 
 .nav-footer {
     align-items: flex-start;  // Align all flex items to the top

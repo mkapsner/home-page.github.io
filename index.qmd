@@ -7,7 +7,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/mkapsner
-    - icon: googlescholar
+    - icon: google
       text: Google Scholar
       href: https://scholar.google.com/citations?user=8ShCV5sAAAAJ&hl=en
     # - icon: github
@@ -25,13 +25,7 @@ about:
 
 I am an experienced behavioral researcher with a passion for using data to inform user-centered solutions to advance healthcare and technology. My strengths include leading investigations, collaborating with diverse stakeholders, and translating research insights into practical applications. I am committed to team science and motivated by the joy of constant learning.
 
-I have led end-to-end [projects](projects/index.qmd) examining sensorimotor control of speech, predictive modeling for diagnosis of voice disorders, and improving clinical outcomes measurement by understanding user characteristics and perspectives. I have developed and leveraged skills including research design, quantitative and qualitative research methods, statistical modeling (t test, ANOVA, linear and logistic regression, structural equation modeling, nonparametric statistics, ICCs), coding (MATLAB, R, SPSS), signal acquisition and processing (acoustic, aerodynamic, surface electromyography), data visualization, [technical writing](publications/index.qmd), and [science communication](presentations/index.qmd). I also have extensive experience with mentorship and teaching in research, clinic, and classroom settings.
+I have led end-to-end [projects](projects/index.qmd) examining sensorimotor control of speech, predictive modeling for diagnosis of voice disorders, and human factors and user-centered outcomes measurement. My skills include research design, quantitative and qualitative research methods, statistical modeling (t test, ANOVA, linear and logistic regression, structural equation modeling, nonparametric statistics, ICCs), coding (MATLAB, R, SPSS), signal acquisition and processing (acoustic, aerodynamic, surface electromyography), data visualization, [technical writing](publications/index.qmd), and [science communication](presentations/index.qmd). I also have extensive experience with mentorship and teaching in research, clinic, and classroom settings.
 
-Please feel free to [contact me](mailto:mara@kapsner.org) if you would like to learn more or discuss potential projects.
-
-<!-- ```{=html} -->
-<!-- <div  style="margin: 30px; text-align: center;"> -->
-<!-- <a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a> -->
-<!-- </div> -->
-<!-- ``` -->
+Please [contact me](mailto:mara@kapsner.org) if you would like to learn more.
 

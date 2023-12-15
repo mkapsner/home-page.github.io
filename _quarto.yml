@@ -1,9 +1,7 @@
-# This file controls the settings for your Quarto template from www.marvinschmitt.com
-
 # website settings
 website:
-  title: "Mara Kapsner-Smith, Ph.C., CCC-SLP"                                # Your name
-  description: "Researcher and communication expert"   # A brief slogan (optional)
+  title: "Mara Kapsner-Smith"
+  description: "Researcher and communication expert"
   image: img/my_image.jpg
   
   favicon: img/icon_dark.png
